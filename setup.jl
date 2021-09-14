@@ -1,0 +1,1 @@
+import Pkg; Pkg.add(["Flux", "ProgressMeter", "CUDA", "BSON", "MLDatasets", ])
