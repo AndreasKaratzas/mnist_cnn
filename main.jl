@@ -1,6 +1,6 @@
 
-include("engine.jl")
-include("plot.jl")
+include("src/engine.jl")
+include("src/plot.jl")
 
 
 # arguments for the `train` function
@@ -22,5 +22,5 @@ function main()
     args = Args()
     rm(joinpath(@__DIR__, "data", "log.txt"), force=true)
     train(args)
-    plot_results()
+    plot_results(joinpath(@__DIR__, "data"))
 end

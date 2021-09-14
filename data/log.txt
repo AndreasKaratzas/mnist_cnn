@@ -1,110 +1,110 @@
 ┌ Info: train
 │   epoch = 0
-│   loss = 2.3051
-│   acc = 10.9267
-└ @ Main C:\Users\andreas\Downloads\simple-ml-project_julia\engine.jl:60
+│   loss = 2.3101
+│   acc = 10.7483
+└ @ Main C:\Users\andreas\Downloads\simple-ml-project_julia\src\engine.jl:60
 ┌ Info: test
 │   epoch = 0
-│   loss = 2.3051
-│   acc = 10.69
-└ @ Main C:\Users\andreas\Downloads\simple-ml-project_julia\engine.jl:61
+│   loss = 2.309
+│   acc = 10.47
+└ @ Main C:\Users\andreas\Downloads\simple-ml-project_julia\src\engine.jl:61
 ┌ Info: train
 │   epoch = 1
-│   loss = 0.1975
-│   acc = 94.3883
-└ @ Main C:\Users\andreas\Downloads\simple-ml-project_julia\engine.jl:60
+│   loss = 0.2286
+│   acc = 93.1483
+└ @ Main C:\Users\andreas\Downloads\simple-ml-project_julia\src\engine.jl:60
 ┌ Info: test
 │   epoch = 1
-│   loss = 0.1851
-│   acc = 94.7
-└ @ Main C:\Users\andreas\Downloads\simple-ml-project_julia\engine.jl:61
+│   loss = 0.2214
+│   acc = 93.27
+└ @ Main C:\Users\andreas\Downloads\simple-ml-project_julia\src\engine.jl:61
 ┌ Info: train
 │   epoch = 2
-│   loss = 0.1165
-│   acc = 96.595
-└ @ Main C:\Users\andreas\Downloads\simple-ml-project_julia\engine.jl:60
+│   loss = 0.1484
+│   acc = 95.4967
+└ @ Main C:\Users\andreas\Downloads\simple-ml-project_julia\src\engine.jl:60
 ┌ Info: test
 │   epoch = 2
-│   loss = 0.1078
-│   acc = 96.62
-└ @ Main C:\Users\andreas\Downloads\simple-ml-project_julia\engine.jl:61
+│   loss = 0.1462
+│   acc = 95.29
+└ @ Main C:\Users\andreas\Downloads\simple-ml-project_julia\src\engine.jl:61
 ┌ Info: train
 │   epoch = 3
-│   loss = 0.0903
-│   acc = 97.3333
-└ @ Main C:\Users\andreas\Downloads\simple-ml-project_julia\engine.jl:60
+│   loss = 0.111
+│   acc = 96.7133
+└ @ Main C:\Users\andreas\Downloads\simple-ml-project_julia\src\engine.jl:60
 ┌ Info: test
 │   epoch = 3
-│   loss = 0.084
-│   acc = 97.38
-└ @ Main C:\Users\andreas\Downloads\simple-ml-project_julia\engine.jl:61
+│   loss = 0.1054
+│   acc = 96.85
+└ @ Main C:\Users\andreas\Downloads\simple-ml-project_julia\src\engine.jl:61
 ┌ Info: train
 │   epoch = 4
-│   loss = 0.0769
-│   acc = 97.67
-└ @ Main C:\Users\andreas\Downloads\simple-ml-project_julia\engine.jl:60
+│   loss = 0.089
+│   acc = 97.3067
+└ @ Main C:\Users\andreas\Downloads\simple-ml-project_julia\src\engine.jl:60
 ┌ Info: test
 │   epoch = 4
-│   loss = 0.0687
-│   acc = 97.8
-└ @ Main C:\Users\andreas\Downloads\simple-ml-project_julia\engine.jl:61
+│   loss = 0.0842
+│   acc = 97.36
+└ @ Main C:\Users\andreas\Downloads\simple-ml-project_julia\src\engine.jl:61
 ┌ Info: train
 │   epoch = 5
-│   loss = 0.0633
-│   acc = 98.1017
-└ @ Main C:\Users\andreas\Downloads\simple-ml-project_julia\engine.jl:60
+│   loss = 0.0781
+│   acc = 97.6083
+└ @ Main C:\Users\andreas\Downloads\simple-ml-project_julia\src\engine.jl:60
 ┌ Info: test
 │   epoch = 5
-│   loss = 0.0579
-│   acc = 98.14
-└ @ Main C:\Users\andreas\Downloads\simple-ml-project_julia\engine.jl:61
+│   loss = 0.0737
+│   acc = 97.68
+└ @ Main C:\Users\andreas\Downloads\simple-ml-project_julia\src\engine.jl:61
 ┌ Info: train
 │   epoch = 6
-│   loss = 0.0574
-│   acc = 98.3033
-└ @ Main C:\Users\andreas\Downloads\simple-ml-project_julia\engine.jl:60
+│   loss = 0.0742
+│   acc = 97.61
+└ @ Main C:\Users\andreas\Downloads\simple-ml-project_julia\src\engine.jl:60
 ┌ Info: test
 │   epoch = 6
-│   loss = 0.0563
-│   acc = 98.27
-└ @ Main C:\Users\andreas\Downloads\simple-ml-project_julia\engine.jl:61
+│   loss = 0.0683
+│   acc = 97.71
+└ @ Main C:\Users\andreas\Downloads\simple-ml-project_julia\src\engine.jl:61
 ┌ Info: train
 │   epoch = 7
-│   loss = 0.0548
-│   acc = 98.3733
-└ @ Main C:\Users\andreas\Downloads\simple-ml-project_julia\engine.jl:60
+│   loss = 0.0612
+│   acc = 98.0967
+└ @ Main C:\Users\andreas\Downloads\simple-ml-project_julia\src\engine.jl:60
 ┌ Info: test
 │   epoch = 7
-│   loss = 0.0532
-│   acc = 98.39
-└ @ Main C:\Users\andreas\Downloads\simple-ml-project_julia\engine.jl:61
+│   loss = 0.0576
+│   acc = 98.12
+└ @ Main C:\Users\andreas\Downloads\simple-ml-project_julia\src\engine.jl:61
 ┌ Info: train
 │   epoch = 8
-│   loss = 0.0499
-│   acc = 98.4883
-└ @ Main C:\Users\andreas\Downloads\simple-ml-project_julia\engine.jl:60
+│   loss = 0.0558
+│   acc = 98.2683
+└ @ Main C:\Users\andreas\Downloads\simple-ml-project_julia\src\engine.jl:60
 ┌ Info: test
 │   epoch = 8
-│   loss = 0.0484
-│   acc = 98.45
-└ @ Main C:\Users\andreas\Downloads\simple-ml-project_julia\engine.jl:61
+│   loss = 0.0543
+│   acc = 98.2
+└ @ Main C:\Users\andreas\Downloads\simple-ml-project_julia\src\engine.jl:61
 ┌ Info: train
 │   epoch = 9
-│   loss = 0.0506
-│   acc = 98.4967
-└ @ Main C:\Users\andreas\Downloads\simple-ml-project_julia\engine.jl:60
+│   loss = 0.0583
+│   acc = 98.1817
+└ @ Main C:\Users\andreas\Downloads\simple-ml-project_julia\src\engine.jl:60
 ┌ Info: test
 │   epoch = 9
-│   loss = 0.049
-│   acc = 98.36
-└ @ Main C:\Users\andreas\Downloads\simple-ml-project_julia\engine.jl:61
+│   loss = 0.0568
+│   acc = 98.19
+└ @ Main C:\Users\andreas\Downloads\simple-ml-project_julia\src\engine.jl:61
 ┌ Info: train
 │   epoch = 10
-│   loss = 0.0402
-│   acc = 98.7833
-└ @ Main C:\Users\andreas\Downloads\simple-ml-project_julia\engine.jl:60
+│   loss = 0.051
+│   acc = 98.3617
+└ @ Main C:\Users\andreas\Downloads\simple-ml-project_julia\src\engine.jl:60
 ┌ Info: test
 │   epoch = 10
-│   loss = 0.0436
-│   acc = 98.51
-└ @ Main C:\Users\andreas\Downloads\simple-ml-project_julia\engine.jl:61
+│   loss = 0.0533
+│   acc = 98.34
+└ @ Main C:\Users\andreas\Downloads\simple-ml-project_julia\src\engine.jl:61
